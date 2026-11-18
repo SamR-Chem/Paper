@@ -5,7 +5,7 @@
 Sam R
 
 # Introduction
-I will present the argument that the ant will probably win.
+I^[1] will present the argument that the ant will probably win^[1].
 
-100 people is a lot, even at an ant size, however, the size to power ratio
-of an ant is off the scale.
+100 people is a lot, even at an ant's size^[1]. However, the size to power ratio
+of an ant is off the scale^[2].
