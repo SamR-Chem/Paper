@@ -1,11 +1,14 @@
 # Title
-100 me sized ants or an ant sized me
+100 duck-sized horses Vs 1 human-sized duck, who would win?
 
 # Author
-Sam R
+Samuel Duck-supporting Rickard 
 
 # Introduction
-I^[1] will present the argument that the ant will probably win^[1].
+I[me et al.] will present the argument that the 1 human-sized duck would
+win[Duck et al.].
 
-100 people is a lot, even at an ant's size^[1]. However, the size to power ratio
-of an ant is off the scale^[2].
+100 is a lot of horses, regardless size^[Horse et al.]. However, the size to
+power ratio of the duck and sheer willpower is off the
+scale[Duck supporter et al.] - which I will discuss further in the following
+sections:
