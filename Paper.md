@@ -20,3 +20,6 @@ universal truth[Made it up et al.].
 Although it's an open-shut case[Bias et al.], I will justify unbiasely and
 eliminate (both convincingly and with force) any doubt in any duck-supporting
 individuals in the following sections:
+
+# Duck's would actually win
+There is however an argument to be made...
