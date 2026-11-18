@@ -4,6 +4,7 @@
 # Author
 Sam Horse-paid-off Rickard
 Capitalist Horse (very influential and wealthy)
+Gracee Molyneux
 
 # Introduction
 I[me et al.] will present the argument that the 100 duck-sized horses would
