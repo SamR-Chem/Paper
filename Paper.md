@@ -20,3 +20,8 @@ accepted[Horse supporter et al.], as a universal truth[Made it up et al.].
 Although it's an open-shut case[Bias et al.], I will justify unbiasely and
 eliminate (both convincingly and with force) any doubt in any duck-supporting
 individuals in the following sections:
+
+# Methodology
+We are going to use novel computational simulation methods, via molecular
+dynamics, to put a sample size of 100 horse's and 1 duck using standard measurements for both
+ and put them in a unit cell, also denoted "fighting ring". 
