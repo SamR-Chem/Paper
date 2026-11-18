@@ -1,14 +1,22 @@
 # Title
-100 duck-sized horses Vs 1 human-sized duck, who would win?
+100 duck-sized horses Vs 1 human-sized duck, obviously the horses would win
 
 # Author
 Samuel Duck-supporting Rickard 
+Sam Horse-paid-off Rickard
 
 # Introduction
 I[me et al.] will present the argument that the 1 human-sized duck would
-win[Duck et al.].
+win[Duck et al.] in the classic conundrum:
 
-100 is a lot of horses, regardless size^[Horse et al.]. However, the size to
-power ratio of the duck and sheer willpower is off the
-scale[Duck supporter et al.] - which I will discuss further in the following
-sections:
+Would 100 duck-sized horses win in an all out war against a single human-sized
+duck?
+
+1 duck is a big, strong duck regardless of numbers[Horse et al.]. This is a universal
+truth. However, the size:power ratio, sheer aggressiveness, and tenacity of 
+100 ducks is just as justified and widely accepted[Duck supporter et al.], as a
+universal truth[Made it up et al.].
+
+Although it's an open-shut case[Bias et al.], I will justify unbiasely and
+eliminate (both convincingly and with force) any doubt in any duck-supporting
+individuals in the following sections:
