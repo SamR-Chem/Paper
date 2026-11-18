@@ -5,6 +5,9 @@
 Sam Horse-paid-off Rickard
 Capitalist Horse (very influential and wealthy)
 
+# Funding
+Capitalist Horse is the only funding we need
+
 # Introduction
 I[me et al.] will present the argument that the 100 duck-sized horses would
 win[Horse et al.] in the classic conundrum:
